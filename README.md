@@ -1,5 +1,5 @@
-# sgsa
-Sampling Grid Shifting Algorithm
+# Sampling Grid Shifting Algorithm
+
   
 https://essopenarchive.org/doi/full/10.1002/essoar.10502569.1
    
